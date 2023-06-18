@@ -1,0 +1,6 @@
+[global_resource_Material]
+displayName: Material (🛠)
+displayNameShort: 🛠️
+displayRoundedDown: true
+priority: 2
+displayColor: #ff0000
